@@ -43,8 +43,8 @@ top: 16px;
   hr{
     height:1px;
     border-width:0;
-    color:rgb(221, 217, 217);
-    background-color:rgb(221, 217, 217);
+    color:rgb(27, 27, 27);
+    background-color:rgb(27, 27, 27);
     margin-top: 29px;
   }
   
@@ -63,7 +63,8 @@ top: 16px;
   }
   
   body {
-    background-color:white
+    background-image: url("bg2.png");
+    background-repeat: no-repeat;
   }
 
   
