@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+}
+.header {
+    display: inline;
+    padding: 2%;
+  }
+  
+.img1{
+top: 16px;
+    position: fixed;
+}
+
+.text1{
+    top: 22px;
+    left: 47px;
+    position: fixed;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 550;
+}
+
+  #newtext {
+    margin: 30px;
+    margin-left: 17%;
+    font-size: 20px; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+  }
+  
+  .loading {
+    margin: 30px;
+    margin-left: 20%;
+    font-size: 20px; 
+  }
+  
+  body {
+      margin: 0% ;
+      margin-top: 18px;
+    width: 300px;
+    height: 420px;
+  }
+  hr{
+    height:1px;
+    border-width:0;
+    color:rgb(221, 217, 217);
+    background-color:rgb(221, 217, 217);
+    margin-top: 29px;
+  }
+  
+  #brobtn {
+    top: 350px;
+    left: 49px;
+    position: fixed;
+  }
+  footer {
+    top: 400px;
+    position: fixed;
+    font-family: 'Roboto', sans-serif;
+   font-weight:600;
+    left: 14px;
+    font-size: 15px;
+  }
+  
+  body {
+    background-color:white
+  }
+
+  
+  
+  .search-btn {
+      background-image: linear-gradient(to right, #B3FFAB 0%, #12FFF7  51%, #B3FFAB  100%);
+      font-family: 'Roboto', sans-serif;
+      font-size: 17px;
+      cursor: pointer;
+      font-weight: 500;
+    }
+  .search-btn {
+     padding: 15px 45px;
+     text-align: center;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: rgb(68, 68, 68);            
+     border:none;
+     outline:none;
+     border-radius: 6px;
+     display: block;
+   }
+
+   .search-btn:hover {
+     background-position: right center; /* change the direction of the change here */
+     text-decoration: none;
+   }
+  
+   .img2{
+    margin-left: 15%;
+   }
+
+   #gy{
+    top: 310px;
+    left: 49px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    position: fixed;
+   }
+   
+   .gy1{
+       padding: 3px 8px;
+    position: fixed;
+    left: 45px;
+    top: 310px;
+   }
+
+   .gy2{
+    padding: 3px 4px;
+    position: fixed;
+    left: 160px;
+    top: 310px;
+   }
+   
+   .gy1:hover{
+background-color: black;
+color: white;
+transition: all 0.2s ease-in-out;
+cursor: pointer;
+   }
+
+   .gy2:hover{
+    background-color: black;
+    color: white;
+    transition: all 0.2s ease-in-out;
+cursor: pointer;               
+}
+
+a{
+    color: black;
+}
