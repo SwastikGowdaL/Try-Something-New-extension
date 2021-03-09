@@ -19,6 +19,7 @@ click on the image !
 <h2 class="code-line" data-line-start=21 data-line-end=22 ><a id="Usage_21"></a>Usage</h2>
 
 [![How to use the extension](https://user-images.githubusercontent.com/68393994/110445956-b1463800-80e4-11eb-8e75-7849061c3489.png)](https://user-images.githubusercontent.com/68393994/110445610-50b6fb00-80e4-11eb-8831-537341113382.mp4)
+<br>
 click on the image !
 
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="License_25"></a>License</h2>
