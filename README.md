@@ -14,10 +14,12 @@ Developed By <a href="https://swastikgowdal.github.io/SwastikGowda-Portfolio/">S
 <h3 class="code-line" data-line-start=17 data-line-end=18 ><a id="Video_tutorial_on_getting_started_17"></a>Video tutorial on getting started</h3>
 
 [![How to load the extension](https://user-images.githubusercontent.com/68393994/110444820-768fd000-80e3-11eb-8b12-89482ca17c42.png)](https://user-images.githubusercontent.com/68393994/110443472-f3ba4580-80e1-11eb-8c47-e1465b508c24.mp4)
+
 click on the image !
 
 <h2 class="code-line" data-line-start=21 data-line-end=22 ><a id="Usage_21"></a>Usage</h2>
 [![How to use the extension](https://user-images.githubusercontent.com/68393994/110445956-b1463800-80e4-11eb-8e75-7849061c3489.png)](https://user-images.githubusercontent.com/68393994/110445610-50b6fb00-80e4-11eb-8831-537341113382.mp4)
+
 click on the image !
 
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="License_25"></a>License</h2>
