@@ -22,6 +22,11 @@ click on the image !
 <br>
 click on the image !
 
+For more details on implementation click the below image - 
+
+[![Extension Implementation](https://user-images.githubusercontent.com/68393994/110463699-40a91680-80f8-11eb-9273-ae8345369e38.png)](https://user-images.githubusercontent.com/68393994/110445610-50b6fb00-80e4-11eb-8831-537341113382.mp4)
+
+
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="License_25"></a>License</h2>
 <p class="has-line-data" data-line-start="27" data-line-end="28">MIT</p>
 
