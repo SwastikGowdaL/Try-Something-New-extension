@@ -13,10 +13,12 @@ Developed By <a href="https://swastikgowdal.github.io/SwastikGowda-Portfolio/">S
 </ul>
 <h3 class="code-line" data-line-start=17 data-line-end=18 ><a id="Video_tutorial_on_getting_started_17"></a>Video tutorial on getting started</h3>
 
-<script src="https://fast.wistia.com/embed/medias/ylmcyjdfg3.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_ylmcyjdfg3 videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/ylmcyjdfg3/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+https://user-images.githubusercontent.com/68393994/110443472-f3ba4580-80e1-11eb-8c47-e1465b508c24.mp4
+
 
 <h2 class="code-line" data-line-start=21 data-line-end=22 ><a id="Usage_21"></a>Usage</h2>
 
+https://user-images.githubusercontent.com/68393994/110443510-003e9e00-80e2-11eb-9306-b5181d9b3508.mp4
 
 
 <h2 class="code-line" data-line-start=25 data-line-end=26 ><a id="License_25"></a>License</h2>
